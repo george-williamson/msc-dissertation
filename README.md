@@ -6,26 +6,42 @@ We take a look at the first subproblem by exploring current methods for modellin
 
 ### Content
 1. Introduction
+
   1.1 Background
+  
   1.2 FPL
+  
   1.3 Outline
 
 2. Reinforcement Learning
+
   2.1 Basic Definitions
+  
   2.2 Markov Decision Processes
+  
   2.3 Exploration vs. Exploitation
+  
   2.4 Q-learning
  
 3. Modelling Football and Predicting Performance
+
   3.1 Dixon-Coles Model
+  
   3.2 Dixon-Robinson Model
+  
   3.3 Supervised Learning Approach
+  
  
 4. Modelling FPL
+
   4.1 Conjugate Priors
+  
   4.2 Belief MDP for FPL
+  
   4.3 Team Formation Optimisation
+  
   4.4 Bayesian Q-learning
+  
   4.5 An Alternative Approach
 
 5. Computational Experiments
